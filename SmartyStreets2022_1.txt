@@ -1,0 +1,11 @@
+A -2 Walter Houpe Ct NE Palmyara NY 20002
+B - 1309D NEWashington DC 20002
+C - 1207 D St NE Washington DC 20002
+D - 1216Holbrook NEWPalmyra DC 20002
+E - 1812 D St NE Washington DC 20002
+F - 1718 D St NE Washington DC 20002
+G - 1833 NEW Capitol St SE Washington, DC, 20010
+H - 37 16th St NE Washington DC 20002
+I - 32 16th St SE Arlington WV 20003
+J - 19 14th St SE Washington DC 20003
+K - 100 14th St NE Washington DC 20002
