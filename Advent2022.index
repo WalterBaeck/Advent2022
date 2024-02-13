@@ -1,0 +1,25 @@
+01: Maxima
+02: RockPaperScissors
+03: Find common char in strings
+04: 1-D overlaps
+05: Hanoi shuffle
+06: Unique substrings
+07: Tree traversal
+08: 2-D grid line of sight
+09: Rope snaker / finite element simulation
+10: Assembler / simulated execution
+11: Modulo calculus
+12: 2-D cost function / Dijkstra
+13: Nested paired bracket parsing / Linked-list tree / Sorted insertion
+14: Line segment parsing in 2-D grid / Dropping sand accumulation
+15: 2-D diamond shape intersections
+16: Spanning graph / Order permutations / Early cancellation of partial ordering choice
+17: Tetris simulator / repeating pattern detection
+18: 3-D flooding
+19: RTS buildup optimisation
+20: Shuffling array of numbers with weird wraparound
+21: Math-ops interpreter
+22: 3-D Cube surface folding
+23: Movements in 2-D grid / Conway style
+24: Pathfinding through shifting maze / breadth-first search
+25: Base-5 conversion with negative digits
